@@ -1,0 +1,17 @@
+.heading{
+    font-size: 1.3em;
+}
+
+.food-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.food{
+    font-size: 1.4em;
+}
+
+.update,.delete{
+    cursor: pointer;
+}
