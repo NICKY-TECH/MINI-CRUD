@@ -1,5 +1,5 @@
 
-# INTRODUCTION TO CRUD(CREATE,READ,UPDATE AND UPDATE) WITH LARAVEL
+# INTRODUCTION TO CRUD(CREATE,READ,UPDATE AND DELETE) WITH LARAVEL
 
 This is a simple project that implements crud operations with laravel.
 
